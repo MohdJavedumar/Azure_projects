@@ -1,0 +1,12 @@
+{
+	"name": "HttpServer2",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/MohdJavedumar/Azure_projects/blob/main/tokyo_olympic_df/Coaches.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
