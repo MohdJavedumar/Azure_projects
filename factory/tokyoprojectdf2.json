@@ -1,0 +1,9 @@
+{
+	"name": "tokyoprojectdf2",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be95d012-26e7-4e29-a5a7-0f2165bdd364",
+		"tenantId": "1ff1156a-f8b1-44f4-893d-3326abd144f9"
+	}
+}
